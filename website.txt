@@ -1,0 +1,127 @@
+<html>
+	<head>
+    	<style>
+        	table, th, td {
+            	border: 1mm ridge;
+            	border-collapse: 1px solid black; }
+            	.right {
+  position: absolute;
+  right: 0px;
+  width: 180px;
+  padding: 10px;
+}
+ 	body {
+  background-color: #A52A2A;
+}
+        	div.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+} 	
+   	.mid {
+ 
+  margin-right: 188px;
+
+}
+h1 {
+  color: blue;
+}
+    	</style>
+  
+<div><center>
+<h1><strong>Effect Of Religion</strong></h1>
+</center><hr /></div>
+
+	</head>
+	<body>
+<div class="mid">	Religion has always been prominent throughout history with 84% of people having faith of some sort. However, there has been a lot of controversy surrounding religion with many people believing that religion has caused harm, with others saying that religion has done good. Ultimately both sides are correct, with religion having caused harm to people, however also helping others. 
+
+
+<br>
+<br>
+<br>
+
+
+<div class="right">
+    	<table style="width:50%">
+    	<th colspan= "3">The Effects of Religion</th>
+       	
+        	<tr>
+           	
+       	</tr>
+       	
+       	
+        	<tr>
+            	<td>Pros</td>
+            	<td>Cons.</td>
+           	
+            	</tr>
+            	<tr>
+                	<td>  Promotes Social Cohesion               	</td>
+                	<td>  Promotes Prejudice   </td>
+               	
+                 	</tr>
+                 	<tr>
+                     	<td> Motivates people to Act
+                     	<td> Leads to Atrocities
+                   	
+                     	
+                 	</tr>
+                 	<td>Creates good feelings for yourself  </td>
+                 	<td> Creates oppression For Minority Religions  </td>
+            	
+                 	
+                 	
+                 	
+  	</table>
+  	</div>
+
+
+
+
+How religion promotes <em>Social Cohesion </em>: <br>
+Religion brings people together through the shared faith that is shared by individuals, however also connects people on a global scale through charitable programs. <img src="https://www.laguiadelvaron.com/wp-content/uploads/2016/02/Cover-Según-estudiolas-personas-Religiosas-son-más-felices-que-los-Ateos-1.jpg" alt="People Hugging" width="128" height="24"><br> <br> <br><br><br>
+
+How Religion promotes <em>Prejudice:  </em><br>
+Religion has a history of prejudice against those not of the same religion. This is very prominantly shown in the case of Islam where the Sunni and Shite routinely persecute each other.<br> <br>
+
+How Religion motivates people to <em> Act: </em><br>
+In most mainstream religions, good deeds are preached as a way to make it to heaven, or are simply encouraged through communities as a way to be morally good.
+<br> <br>
+How Religion leads to  <em> Actrocities.</em> 
+<br> The possibly most famous example of religion turning violent is 9/11. In this case a groups religious interpretation was used as an excuse to justify violence. <img src="https://en.wikipedia.org/wiki/September_11_attacks#/media/File:North_face_south_tower_after_plane_strike_9-11.jpg" alt ="9/11 attack" width="128" height="24">
+
+
+<Br>
+<br>
+How Religion Creates <em>Good Feelings for Yourself:</em><br>
+Religion gives a sense of greater purpose to people who feel lost about their place in the world; as well as gives a sense of comfort that they have a greater place in the universe. <Br> <br>
+How Religion creates <em> Oppression for Minority Religions</em>
+<br> A famouse example of Opression of Minority Religions would be the Spanish Inquisition which was started by a sect within the Catholic Church to combat heresy and targetted mostly Muslims or Jews to convert to Catholicism or die. Though the death toll varies drastically, it is agreed that at least 3 thousand people died.<br> <br> <br>
+Author Opinion: Regardless of whether religion is based on fact or lies, religion has helped to bring out the good parts of humanity, whether directed towards your self, or towards other less fortunate people; however religion has also brought out the worst in people and some of the most famouse atrocities in history are done in the name of religion. In my Opinion I believe Religion has done more good than bad.
+<br><br><br><br>
+Citations: 
+<br>
+<a href= "https://studymoose.com/religion-gives-meaning-to-life-essay">    . Religion giving meaning </a> <Br>
+<a href= "https://infidels.org/library/modern/michael_moore/religious-prejudice.html">   Religion and prejudice- </a> <br>
+<a href="https://www.thetoptens.com/atrocities-committed-name-religion/"> Religion on Atrocities </a> <br>
+<a href="https://www.cru.org/content/dam/cru/legacy/2012/02/The_Christian_Good_Deeds.pdf"> Religion on Making People Act and do Good Deeds </a>
+<br>
+<a href="https://www.huffpost.com/entry/religious-persecution-on_b_7870614">  Religion and Persecution of Minorities </a><Br>
+<a href="https://www.shsoutherner.net/opinion/2017/03/07/religion-communities-bring-people-together/"> Religion and on Bringing People Together</a>
+
+<br>
+<br>
+<br>
+
+
+
+<a href= "https://en.wikipedia.org/wiki/September_11_attacks#/media/File:North_face_south_tower_after_plane_strike_9-11.jpg" > -Religious Atrocities 9/11 </a> <br>
+
+<a href= "https://www.laguiadelvaron.com/wp-content/uploads/2016/02/Cover-Según-estudiolas-personas-Religiosas-son-más-felices-que-los-Ateos-1.jpg"> -Religion Social Cohesion -People Together </a> <br>
+
+<a href= "https://www.washingtontimes.com/blog/watercooler/2012/dec/23/84-percent-world-population-has-faith-third-are-ch/"> 84% of the world is religious </a>
+</div>
+</body>
+</html>
